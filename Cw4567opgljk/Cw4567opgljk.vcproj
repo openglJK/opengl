@@ -174,15 +174,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\Gouraud_Shader.fp"
-				>
-			</File>
-			<File
-				RelativePath="..\Gouraud_Shader.vp"
-				>
-			</File>
-			<File
-				RelativePath="..\Light.cpp"
+				RelativePath="..\Lphong.cpp"
 				>
 			</File>
 			<File
@@ -191,6 +183,14 @@
 			</File>
 			<File
 				RelativePath="..\pass_thru_shader.vp"
+				>
+			</File>
+			<File
+				RelativePath="..\PhongShader.fp"
+				>
+			</File>
+			<File
+				RelativePath="..\PhongShader.vp"
 				>
 			</File>
 		</Filter>
